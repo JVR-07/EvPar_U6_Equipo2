@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\JAVIER PC\\Documents\\Visual Studio 2022\\Taller Base Datos\\EvPar_U6_Equipo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{376FD1AA-F4F3-4F50-8235-BBC32DAA416F}|EvPar_U6_Equipo2.csproj|d:\\javier pc\\documents\\visual studio 2022\\taller base datos\\evpar_u6_equipo2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{376FD1AA-F4F3-4F50-8235-BBC32DAA416F}|EvPar_U6_Equipo2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376FD1AA-F4F3-4F50-8235-BBC32DAA416F}|EvPar_U6_Equipo2.csproj|d:\\javier pc\\documents\\visual studio 2022\\taller base datos\\evpar_u6_equipo2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{376FD1AA-F4F3-4F50-8235-BBC32DAA416F}|EvPar_U6_Equipo2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376FD1AA-F4F3-4F50-8235-BBC32DAA416F}|EvPar_U6_Equipo2.csproj|d:\\javier pc\\documents\\visual studio 2022\\taller base datos\\evpar_u6_equipo2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{376FD1AA-F4F3-4F50-8235-BBC32DAA416F}|EvPar_U6_Equipo2.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376FD1AA-F4F3-4F50-8235-BBC32DAA416F}|EvPar_U6_Equipo2.csproj|d:\\javier pc\\documents\\visual studio 2022\\taller base datos\\evpar_u6_equipo2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{376FD1AA-F4F3-4F50-8235-BBC32DAA416F}|EvPar_U6_Equipo2.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376FD1AA-F4F3-4F50-8235-BBC32DAA416F}|EvPar_U6_Equipo2.csproj|d:\\javier pc\\documents\\visual studio 2022\\taller base datos\\evpar_u6_equipo2\\views\\emergencycontactpersons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{376FD1AA-F4F3-4F50-8235-BBC32DAA416F}|EvPar_U6_Equipo2.csproj|solutionrelative:views\\emergencycontactpersons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376FD1AA-F4F3-4F50-8235-BBC32DAA416F}|EvPar_U6_Equipo2.csproj|d:\\javier pc\\documents\\visual studio 2022\\taller base datos\\evpar_u6_equipo2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376FD1AA-F4F3-4F50-8235-BBC32DAA416F}|EvPar_U6_Equipo2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376FD1AA-F4F3-4F50-8235-BBC32DAA416F}|EvPar_U6_Equipo2.csproj|d:\\javier pc\\documents\\visual studio 2022\\taller base datos\\evpar_u6_equipo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376FD1AA-F4F3-4F50-8235-BBC32DAA416F}|EvPar_U6_Equipo2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376FD1AA-F4F3-4F50-8235-BBC32DAA416F}|EvPar_U6_Equipo2.csproj|d:\\javier pc\\documents\\visual studio 2022\\taller base datos\\evpar_u6_equipo2\\controllers\\emergencycontactpersonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376FD1AA-F4F3-4F50-8235-BBC32DAA416F}|EvPar_U6_Equipo2.csproj|solutionrelative:controllers\\emergencycontactpersonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376FD1AA-F4F3-4F50-8235-BBC32DAA416F}|EvPar_U6_Equipo2.csproj|d:\\javier pc\\documents\\visual studio 2022\\taller base datos\\evpar_u6_equipo2\\models\\emergencycontactperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376FD1AA-F4F3-4F50-8235-BBC32DAA416F}|EvPar_U6_Equipo2.csproj|solutionrelative:models\\emergencycontactperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{376FD1AA-F4F3-4F50-8235-BBC32DAA416F}|EvPar_U6_Equipo2.csproj|d:\\javier pc\\documents\\visual studio 2022\\taller base datos\\evpar_u6_equipo2\\models\\hospitalbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{376FD1AA-F4F3-4F50-8235-BBC32DAA416F}|EvPar_U6_Equipo2.csproj|solutionrelative:models\\hospitalbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\JAVIER PC\\Documents\\Visual Studio 2022\\Taller Base Datos\\EvPar_U6_Equipo2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\JAVIER PC\\Documents\\Visual Studio 2022\\Taller Base Datos\\EvPar_U6_Equipo2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T00:44:49.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\JAVIER PC\\Documents\\Visual Studio 2022\\Taller Base Datos\\EvPar_U6_Equipo2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\JAVIER PC\\Documents\\Visual Studio 2022\\Taller Base Datos\\EvPar_U6_Equipo2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T00:44:30.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\JAVIER PC\\Documents\\Visual Studio 2022\\Taller Base Datos\\EvPar_U6_Equipo2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\JAVIER PC\\Documents\\Visual Studio 2022\\Taller Base Datos\\EvPar_U6_Equipo2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T00:44:14.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\JAVIER PC\\Documents\\Visual Studio 2022\\Taller Base Datos\\EvPar_U6_Equipo2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\JAVIER PC\\Documents\\Visual Studio 2022\\Taller Base Datos\\EvPar_U6_Equipo2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T00:35:53.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\JAVIER PC\\Documents\\Visual Studio 2022\\Taller Base Datos\\EvPar_U6_Equipo2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\JAVIER PC\\Documents\\Visual Studio 2022\\Taller Base Datos\\EvPar_U6_Equipo2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:35:36.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\JAVIER PC\\Documents\\Visual Studio 2022\\Taller Base Datos\\EvPar_U6_Equipo2\\Views\\EmergencyContactPersons\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\EmergencyContactPersons\\Index.cshtml",
+              "ToolTip": "D:\\JAVIER PC\\Documents\\Visual Studio 2022\\Taller Base Datos\\EvPar_U6_Equipo2\\Views\\EmergencyContactPersons\\Index.cshtml",
+              "RelativeToolTip": "Views\\EmergencyContactPersons\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T00:26:30.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmergencyContactPersonsController.cs",
+              "DocumentMoniker": "D:\\JAVIER PC\\Documents\\Visual Studio 2022\\Taller Base Datos\\EvPar_U6_Equipo2\\Controllers\\EmergencyContactPersonsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmergencyContactPersonsController.cs",
+              "ToolTip": "D:\\JAVIER PC\\Documents\\Visual Studio 2022\\Taller Base Datos\\EvPar_U6_Equipo2\\Controllers\\EmergencyContactPersonsController.cs",
+              "RelativeToolTip": "Controllers\\EmergencyContactPersonsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:24:56.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmergencyContactPerson.cs",
+              "DocumentMoniker": "D:\\JAVIER PC\\Documents\\Visual Studio 2022\\Taller Base Datos\\EvPar_U6_Equipo2\\Models\\EmergencyContactPerson.cs",
+              "RelativeDocumentMoniker": "Models\\EmergencyContactPerson.cs",
+              "ToolTip": "D:\\JAVIER PC\\Documents\\Visual Studio 2022\\Taller Base Datos\\EvPar_U6_Equipo2\\Models\\EmergencyContactPerson.cs",
+              "RelativeToolTip": "Models\\EmergencyContactPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:22:50.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\JAVIER PC\\Documents\\Visual Studio 2022\\Taller Base Datos\\EvPar_U6_Equipo2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\JAVIER PC\\Documents\\Visual Studio 2022\\Taller Base Datos\\EvPar_U6_Equipo2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:19:02.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HospitalBdContext.cs",
+              "DocumentMoniker": "D:\\JAVIER PC\\Documents\\Visual Studio 2022\\Taller Base Datos\\EvPar_U6_Equipo2\\Models\\HospitalBdContext.cs",
+              "RelativeDocumentMoniker": "Models\\HospitalBdContext.cs",
+              "ToolTip": "D:\\JAVIER PC\\Documents\\Visual Studio 2022\\Taller Base Datos\\EvPar_U6_Equipo2\\Models\\HospitalBdContext.cs",
+              "RelativeToolTip": "Models\\HospitalBdContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwCYAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:17:52.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
